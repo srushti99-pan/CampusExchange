@@ -34,7 +34,7 @@ Students can:
 
 ## Features
 
-# ## Authentication & Security
+### Authentication & Security
 
 - Secure user registration and login using JWT authentication.
 - Role-based authentication with protected routes for students.
