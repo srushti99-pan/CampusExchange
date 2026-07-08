@@ -89,17 +89,28 @@ The application is divided into two parts:
 CampusExchange/
 
 ├── backend/
+
 │ ├── controller/
+
 │ ├── service/
+
 │ ├── repository/
+
 │ ├── entity/
+
 │ └── security/
 
+
 ├── frontend/
+
 │ ├── components/
+
 │ ├── pages/
+
 │ ├── services/
+
 │ └── utils/
+
 
 ## Backend Architecture
 
