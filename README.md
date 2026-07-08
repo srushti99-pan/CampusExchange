@@ -1,3 +1,6 @@
+Added Screenshots are of System Architecture and Class Diagram
+
+
 # CampusExchange
 
 CampusExchange is a full-stack marketplace platform designed for college communities, allowing students to securely buy, sell, and exchange used academic and personal items. The application implements JWT-based authentication, role-based authorization, REST APIs, and scalable backend architecture using Spring Boot.
