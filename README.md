@@ -155,7 +155,7 @@ PUT /api/products/{id}
 
 DELETE /api/products/{id}
 
-# Future Improvements
+## Future Improvements
 
 -Real-time Chat Between Buyers and Sellers
 -Product Ratings & Reviews
