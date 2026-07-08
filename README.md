@@ -158,7 +158,11 @@ DELETE /api/products/{id}
 ## Future Improvements
 
 -Real-time Chat Between Buyers and Sellers
+
 -Product Ratings & Reviews
+
 -Recently Viewed Products
+
 -Email Notifications
+
 -AI-Based Recommendations
